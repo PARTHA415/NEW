@@ -6,3 +6,4 @@ git status
 
 modified
 
+method
