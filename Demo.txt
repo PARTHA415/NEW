@@ -1,7 +1,7 @@
 Hi,
 
 My name is Partha
-git status
+
 
 
 modified
